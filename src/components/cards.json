@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Безлимитный 300",
+    "price": "300 руб/мес",
+    "speed": "до 10 Мбит/сек",
+    "titleColor": "#209daa",
+    "priceColor": "#2bc1d5"
+}, {
+    "title": "Безлимитный 450",
+    "price": "450 руб/мес",
+    "speed": "до 50 Мбит/сек",
+    "titleColor": "#1d8b72",
+    "priceColor": "#1cb18d"
+}, {
+    "title": "Безлимитный 550",
+    "price": "550 руб/мес",
+    "speed": "до 100 Мбит/сек",
+    "titleColor": "#c3554d",
+    "priceColor": "#f16b64"
+}, {
+    "title": "Безлимитный 1000",
+    "price": "1000 руб/мес",
+    "speed": "до 200 Мбит/сек",
+    "titleColor": "#272f37",
+    "priceColor": "#2a3036"
+  }
+]
